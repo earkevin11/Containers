@@ -2,9 +2,10 @@
 
 
 # Why do we need containers?
-- To save on compute costs, companies will install applications on one machine.
-- To prevent one application from affecting another application on the same machine, we use containers like Docker.
-- They're isolated units that contain an application. Machinse can have multiple containers. There won't be any application conflict.
+- Companies will spend a lot of money install applications on multiple machines.
+- To save compute costs, and to prevent one application from affecting another application on the same machine, we use containers like Docker.
+- They're isolated units that contain an application. 
+- Machines can have multiple containers. There won't be any application conflict because the container isolates them.
 
 
 # Applications on their own machines
