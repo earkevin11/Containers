@@ -66,3 +66,52 @@
   
 <p/>
 
+
+# 141 - Follow video to build the image
+- The container will be built from the image
+- Once admin runs the commands, the Linux VM shoulde run the container with the help of the Docker Engine on the Linux VM
+
+# Copy the public folder - created by Udemy Instructor - we're creating an Image
+- Then we're going to create a container from the image
+- Copy the contents in the folder onto the linux vm using WinSCP
+- Run the commands to create the image from the contents
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173903424-65b9a00d-9a00-4167-80de-398d69459e11.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+  
+<p/>
+
+# Open up port 80 because now users will need to access the Linux VM to view the container
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173903621-4853b78a-75ee-4e15-a1a9-9077c1ca0da2.png" height="125%" width="125%" alt="review of vnets and VMs"/>
+  
+<p/>
+
+# Successful container on Linux VM
+- The application is now being ran as a container on the Linux VM.
+- Everything is running as a container with the help of the Docker Engine
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173903920-7189f17e-f4ad-4dca-bb5d-13cf0c2c7f33.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+  
+<p/>
+
+
+# Purpose of Azure Container Registry
+- This service can be used to hold your images on Azure.
+- One can also host images on DockerHub
+- Other developers can run a container on another vm based on that image
+
+# Create the Azure container registry
+- 
+
+
+# Push the image from the Linux VM onto the container registry
+- 
+
+# Container Instance
+- Create a container instance using the Azure service and select it from the Container Registry
+- It will have an public IP where users can access it via the internet
