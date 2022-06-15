@@ -106,11 +106,57 @@
 - Other developers can run a container on another vm based on that image
 
 # Create the Azure container registry
-- 
+- This Container Registry is within Azure and will host the images for developers
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173929181-0550f15f-e4a3-4e2f-b99b-789f0ed5a377.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+  
+<p/>
 
 
 # Push the image from the Linux VM onto the container registry
-- 
+- Now we must push the image from the Linux VM to the Azure Container Registry - appregistry2031
+
+# Follow these commands # 144
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173930985-b578a600-6e03-4897-9d17-288f19ed539c.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+  
+<p/>
+
+# Successful login to Azure CLI
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173931228-781fe4d9-cfcf-4ace-ae63-f02b5e0593ed.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+  
+<p/>
+
+# When logging into Azure Container Registry
+- Ensure in the commands that the registry is the same as what was created
+- appregistry2031
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173931228-781fe4d9-cfcf-4ace-ae63-f02b5e0593ed.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+  
+<p/>
+
+# After pushing the image, users should see the image we named "my app" in the repository
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173932876-a3ed81d0-521a-48b1-83c3-186ce1d00804.png" height="100%" width="100%" alt="review of vnets and VMs"/>
+  
+<p/>
+
+# my app image should appear in the Azure Container Registry
+- Developers and Admins can now create containers using this image in the registry
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173933027-367bfc87-35c0-4590-94ef-ed994cb96b19.png" height="85%" width="85%" alt="review of vnets and VMs"/>
+  
+<p/>
+
 
 # Container Instance
 - Create a container instance using the Azure service and select it from the Container Registry
