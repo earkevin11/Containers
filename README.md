@@ -32,3 +32,37 @@
 <img src="https://user-images.githubusercontent.com/104326475/172236880-f1d186e5-ac14-4777-b617-c763e1c7e875.png" height="90%" width="90%" alt="review of vnets and VMs"/>
   
 <p/>
+
+
+
+# Deploying Docker instance on Linux Machine
+- Create a Linux Machine
+- Download and install Putty
+
+
+# Why are we using Putty?
+- Putty is used to SSH into a Linux machine from a Windows-based machine
+- Enter the Public IP of the linux vm created and SSH into the VM
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173869736-3f199e1f-f486-45f6-918f-f99e539c85da.png" height="40%" width="40%" alt="review of vnets and VMs"/>
+  
+<p/>
+
+# Enter the following commands and install Docker
+- Go to the website - https://docs.docker.com/engine/install/ubuntu/ - here users can insert the following commands to install Docker
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173877905-d21fd935-9902-442d-a61c-885a634a34dd.png" height="105%" width="105%" alt="review of vnets and VMs"/>
+  
+<p/>
+
+# Confirmation of Docker installation
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173882454-fb041333-0f12-4ef9-b682-f35f8aa996b8.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+  
+<p/>
+
