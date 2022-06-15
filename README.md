@@ -159,5 +159,19 @@
 
 
 # Container Instance
-- Create a container instance using the Azure service and select it from the Container Registry
+- Create a container instance using the Container Registry
 - It will have an public IP where users can access it via the internet
+
+
+# In order for Azure Container Instances to authenticate to pick up an image from the repository
+- Admins must enable admin user in "Access Keys" settings
+- One service does not trust each other automatically. Security is very important.
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173934720-bf92dcd9-5944-4620-845a-e0925916e952.png" height="125%" width="125%" alt="review of vnets and VMs"/>
+  
+<p/>
+
+
+
+
