@@ -178,4 +178,17 @@
 <p/>
 
 
+# Access the Container Registry
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173937417-e2d258c8-39e9-4afc-a062-4c8009b9fc24.png" height="125%" width="125%" alt="review of vnets and VMs"/>
+  
+<p/>
 
+# Enter the Public IP of the Container Instance and see if you can access the application in the container
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/173938082-cea88955-d25a-4c89-a283-9059465cba68.png" height="105%" width="105%" alt="review of vnets and VMs"/>
+  
+<p/>
