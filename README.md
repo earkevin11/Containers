@@ -195,6 +195,9 @@
 
 
 # Azure Container Instance  - Service Principals
+- Service Principals will be linked to the Container Instance AND have an identity in Azure AD.
+- The service principal will be able to authenticate to access the images in the container registry
+- Instead of having to enable access keys, one can use service principals.
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/174422146-3d4da182-30dc-4534-beaf-1c0abf7409ab.png" height="55%" width="55%" alt="service prinicpals"/>
