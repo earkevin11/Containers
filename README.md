@@ -192,3 +192,6 @@
 <img src="https://user-images.githubusercontent.com/104326475/173938082-cea88955-d25a-4c89-a283-9059465cba68.png" height="105%" width="105%" alt="review of vnets and VMs"/>
   
 <p/>
+
+
+# Azure Container Instance  - Service Principals
