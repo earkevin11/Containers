@@ -12,7 +12,7 @@
 - The applications will not affect each other since they are isolated by virtual machines
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/172237243-cf28ae52-610c-420a-b998-cf9dc56c570d.png" height="90%" width="90%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/172237243-cf28ae52-610c-420a-b998-cf9dc56c570d.png" height="90%" width="90%" alt="containers"/>
 
 <p/>
 
@@ -22,14 +22,14 @@
 - To combat that, admins will use containers
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/172234121-1aee58aa-163c-4b6f-b2f2-ebd7838b7bc9.png" height="90%" width="90%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/172234121-1aee58aa-163c-4b6f-b2f2-ebd7838b7bc9.png" height="90%" width="90%" alt="containers"/>
 
 # Containers diagram
 - This is for visual learners like myself
 - Containers like dockers would be used to isolate multiple applications installed on a single virtual machine 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/172236880-f1d186e5-ac14-4777-b617-c763e1c7e875.png" height="90%" width="90%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/172236880-f1d186e5-ac14-4777-b617-c763e1c7e875.png" height="90%" width="90%" alt="containers"/>
   
 <p/>
 
@@ -46,7 +46,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173869736-3f199e1f-f486-45f6-918f-f99e539c85da.png" height="40%" width="40%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173869736-3f199e1f-f486-45f6-918f-f99e539c85da.png" height="40%" width="40%" alt="containers"/>
   
 <p/>
 
@@ -55,14 +55,14 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173877905-d21fd935-9902-442d-a61c-885a634a34dd.png" height="105%" width="105%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173877905-d21fd935-9902-442d-a61c-885a634a34dd.png" height="105%" width="105%" alt="containers"/>
   
 <p/>
 
 # Confirmation of Docker installation
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173882454-fb041333-0f12-4ef9-b682-f35f8aa996b8.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173882454-fb041333-0f12-4ef9-b682-f35f8aa996b8.png" height="65%" width="65%" alt="containers"/>
   
 <p/>
 
@@ -78,14 +78,14 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173903424-65b9a00d-9a00-4167-80de-398d69459e11.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173903424-65b9a00d-9a00-4167-80de-398d69459e11.png" height="65%" width="65%" alt="containers"/>
   
 <p/>
 
 # Open up port 80 because now users will need to access the Linux VM to view the container
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173903621-4853b78a-75ee-4e15-a1a9-9077c1ca0da2.png" height="125%" width="125%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173903621-4853b78a-75ee-4e15-a1a9-9077c1ca0da2.png" height="125%" width="125%" alt="containers"/>
   
 <p/>
 
@@ -95,7 +95,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173903920-7189f17e-f4ad-4dca-bb5d-13cf0c2c7f33.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173903920-7189f17e-f4ad-4dca-bb5d-13cf0c2c7f33.png" height="65%" width="65%" alt="containers"/>
   
 <p/>
 
@@ -109,7 +109,7 @@
 - This Container Registry is within Azure and will host the images for developers
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173929181-0550f15f-e4a3-4e2f-b99b-789f0ed5a377.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173929181-0550f15f-e4a3-4e2f-b99b-789f0ed5a377.png" height="65%" width="65%" alt="containers"/>
   
 <p/>
 
@@ -120,14 +120,14 @@
 # Follow these commands # 144
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173930985-b578a600-6e03-4897-9d17-288f19ed539c.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173930985-b578a600-6e03-4897-9d17-288f19ed539c.png" height="65%" width="65%" alt="containers"/>
   
 <p/>
 
 # Successful login to Azure CLI
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173931228-781fe4d9-cfcf-4ace-ae63-f02b5e0593ed.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173931228-781fe4d9-cfcf-4ace-ae63-f02b5e0593ed.png" height="65%" width="65%" alt="containers"/>
   
 <p/>
 
@@ -137,14 +137,14 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173931228-781fe4d9-cfcf-4ace-ae63-f02b5e0593ed.png" height="65%" width="65%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173931228-781fe4d9-cfcf-4ace-ae63-f02b5e0593ed.png" height="65%" width="65%" alt="containers"/>
   
 <p/>
 
 # After pushing the image, users should see the image we named "my app" in the repository
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173932876-a3ed81d0-521a-48b1-83c3-186ce1d00804.png" height="100%" width="100%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173932876-a3ed81d0-521a-48b1-83c3-186ce1d00804.png" height="100%" width="100%" alt="containers"/>
   
 <p/>
 
@@ -153,7 +153,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173933027-367bfc87-35c0-4590-94ef-ed994cb96b19.png" height="85%" width="85%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173933027-367bfc87-35c0-4590-94ef-ed994cb96b19.png" height="85%" width="85%" alt="containers"/>
   
 <p/>
 
@@ -163,7 +163,7 @@
 - One service does not trust each other automatically. Security is very important.
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173934720-bf92dcd9-5944-4620-845a-e0925916e952.png" height="125%" width="125%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173934720-bf92dcd9-5944-4620-845a-e0925916e952.png" height="125%" width="125%" alt="containers"/>
   
 <p/>
 
@@ -173,7 +173,7 @@
 - Also select the registry and image
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173935597-2661d7b7-3748-4ea9-ae6f-018125c88297.png" height="55%" width="55%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173935597-2661d7b7-3748-4ea9-ae6f-018125c88297.png" height="55%" width="55%" alt="containers"/>
   
 <p/>
 
@@ -181,7 +181,7 @@
 # Access the Container Registry
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173937417-e2d258c8-39e9-4afc-a062-4c8009b9fc24.png" height="125%" width="125%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173937417-e2d258c8-39e9-4afc-a062-4c8009b9fc24.png" height="125%" width="125%" alt="containers"/>
   
 <p/>
 
@@ -189,9 +189,16 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/173938082-cea88955-d25a-4c89-a283-9059465cba68.png" height="105%" width="105%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/173938082-cea88955-d25a-4c89-a283-9059465cba68.png" height="105%" width="105%" alt="containers"/>
   
 <p/>
 
 
 # Azure Container Instance  - Service Principals
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/174422146-3d4da182-30dc-4534-beaf-1c0abf7409ab.png" height="105%" width="105%" alt="service prinicpals"/>
+  
+<p/>
+
+
