@@ -197,7 +197,7 @@
 # Azure Container Instance  - Service Principals
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/174422146-3d4da182-30dc-4534-beaf-1c0abf7409ab.png" height="105%" width="105%" alt="service prinicpals"/>
+<img src="https://user-images.githubusercontent.com/104326475/174422146-3d4da182-30dc-4534-beaf-1c0abf7409ab.png" height="55%" width="55%" alt="service prinicpals"/>
   
 <p/>
 
