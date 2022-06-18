@@ -205,3 +205,11 @@
 <p/>
 
 
+# Commands to create a Service Principal
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/174453610-45c0d269-93ea-42a1-bfb1-35fe25aa2c02.png" height="55%" width="55%" alt="service prinicpals"/>
+  
+<p/>
+
