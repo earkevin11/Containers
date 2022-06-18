@@ -213,3 +213,12 @@
   
 <p/>
 
+# Content Trust in Azure Container Registry (Premium)
+- Companies want to ensure images are secure and haven't been tampered with, it will be signed.
+- Users can enable Content Trust feature in Azure Container Registry
+- Content Trust > Enable 
+
+
+# Microsoft Defender for Cloud - Containers
+- Defender can scan the registry and check for vulnerabilities and provide security recommendations on the registry
+- Admins must enable scan
